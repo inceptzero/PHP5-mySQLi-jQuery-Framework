@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <url>http://inceptzero.com/pok/</url>
+    <dbihost>localhost</dbihost>
+    <dbiname>incept0_poker</dbiname>
+    <dbiuser>incept0_poker</dbiuser>
+    <dbipass>Qb@]SX4KOP)-</dbipass>
+    <path>/home3/incept0/public_html/inceptzero.com/pok/</path>
+    <inc>/home3/incept0/coptr/</inc>
+</root>
